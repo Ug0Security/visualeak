@@ -1,3 +1,5 @@
+shodan == http.favicon.hash:-1584893473
+
 docker Visualizer leak sensitive data including passwords, cloud keys etc..
 
 this just get the env as this seems to contains most infos
